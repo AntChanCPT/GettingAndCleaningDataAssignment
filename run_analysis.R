@@ -19,7 +19,7 @@ run_analysis <- function(dataset_dir) {
     trainsub_dir <- paste(dataset_dir, "train/subject_train.txt", sep = "") # Create filepath to training subject numbers
     testset_dir <- paste(dataset_dir, "test/x_test.txt", sep = "") # Create filepath to test data
     testlab_dir <- paste(dataset_dir, "test/y_test.txt", sep = "") # Create filepath to test labels
-    testsub_dir <- paste(dataset_dir, "test/subject_test.txt", sep = "") # Crete filepath to test subject numbers
+    testsub_dir <- paste(dataset_dir, "test/subject_test.txt", sep = "") # Create filepath to test subject numbers
     
     featlabs <- pull(select(read.table(featlabs_dir), 2)) # Create vector of column names from second column of feature labels file
     actlabs <- read.table(actlabs_dir) # Read in activity labels file
