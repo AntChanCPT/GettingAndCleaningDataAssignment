@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585058321490.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2903920884",
+    "id" : "7D976E03",
+    "lastKnownWriteTime" : 1585149148,
+    "last_content_update" : 1585149148891,
+    "path" : "D:/Tutorials/RStudio/John_Hopkins_University_Course/03_Getting_and_Cleaning_Data/Week_4/Project_Assignment/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "52,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
